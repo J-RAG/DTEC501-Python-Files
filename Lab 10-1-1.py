@@ -1,6 +1,6 @@
 # Lab 10-1-1
 # By Julan Ray Avila Gutierrez, jra0108@arastudent.ac.nz
- 
+
 import os
 
 def create_dir():
